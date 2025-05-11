@@ -45,3 +45,8 @@ cargo run
 ```
 
 You're now ready to develop in Rust!  
+
+
+
+Helping Article:
+https://medium.com/@Murtza/implementing-concurrency-in-rust-a-comprehensive-guide-for-efficient-backend-systems-b871ae9b7b29
